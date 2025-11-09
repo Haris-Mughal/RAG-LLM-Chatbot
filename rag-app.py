@@ -43,7 +43,7 @@ st.write("Upload PDFs → Build index → Ask questions. Simple RAG implementati
 # =========================
 # KEYS
 # =========================
-GOOGLE_API_KEY = "AIzaSyBOpUfJJzcacdXd43J6LSbRx3pTPQfJ4Ag"
+GOOGLE_API_KEY = "add-ur-API-here...of gemini"
 if not GOOGLE_API_KEY:
     GOOGLE_API_KEY = st.text_input(
         "Google API Key (from Google AI Studio)",
